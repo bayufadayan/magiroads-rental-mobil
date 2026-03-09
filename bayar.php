@@ -63,7 +63,7 @@ include 'header.php';
                         <tr>
                             <td>Nama</td>
                             <td> : </td>
-                            <td>Magitas</td>
+                            <td>Samin</td>
                         </tr>
 
                         <tr>

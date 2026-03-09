@@ -61,7 +61,7 @@
                 <!-- Lagi lagi di sini akan ada tag untuk session user. sama percis seperti di atas -->
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="#"><i class="fa-solid fa-user ms-2 me-1"></i> Hallo, Magitas!</a> <!-- Di samping hallo akan ada tag php untuk mengambil nama user dari database-->
+                        <a class="nav-link" aria-current="page" href="#"><i class="fa-solid fa-user ms-2 me-1"></i> Hallo, Samin!</a> <!-- Di samping hallo akan ada tag php untuk mengambil nama user dari database-->
                     </li>
 
                     <li class="nav-item ">

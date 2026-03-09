@@ -43,7 +43,7 @@ include 'header.php'
             <div class="card" style="background: #ddd">
                 <div class="card-body">
                     <!-- tag php untuk if session user -->
-                    Selamat Datang, Magitas <!-- Ambil nama user dari session -->
+                    Selamat Datang, Samin <!-- Ambil nama user dari session -->
                     <br><br>
 
                     <div class="d-flex justify-content-center gap-3">

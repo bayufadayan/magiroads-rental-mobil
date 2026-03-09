@@ -35,7 +35,7 @@ include 'header.php';
                                 <td>1</td>
                                 <td>89372547238</td>
                                 <td>Honda</td>
-                                <td>Magitas</td>
+                                <td>Samin</td>
                                 <td>20/02/2020</td>
                                 <td>6 Hari</td>
                                 <!-- Jangan lupa pake number format -->
